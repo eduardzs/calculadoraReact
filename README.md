@@ -1,4 +1,5 @@
 ### Calculadora ReactJS
+<a href="https://calculadora-react-psi.vercel.app/">Link do projeto</a>
 
 Esse projeto foi feito visando a consolidação dos conhecimentos básicos de ReactJS.
 
@@ -14,11 +15,14 @@ Para a boilerplate foi utilizado o vitejs pois ele faz um uso melhor das tecnolo
 <div style="width: 100%; text-align: center;">
     <img  src="./img/vite.png" alt="Imagem do Projeto">
 </div>
-
-<a href=""></a>
-
-### Calculadora Calculando
+<a href="https://calculadora-react-psi.vercel.app/">Link do projeto</a>
+<hr>
 <div style="width: 100%; text-align: center;">
+    <h4>Calculadora Calculando</h4>
     <img src=".\img\calculadora-calculando.gif" alt="Calculadora Calculando GIF">
+    <h4>Tema Dark</h4>
+    <img src=".\img\dark.png" alt="Tema Dark">
+    <h4>Tema Light</h4>
+    <img src=".\img\light.png" alt="Tema Dark">
 </div>
 
