@@ -1,0 +1,45 @@
+.App-div {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid #7F00FF;
+  background: #f4f4f4;
+  padding: 15px;
+  max-width: 320px;
+  border-radius: 15px;
+  margin-top: 40px;
+}
+
+.App{
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+}
+
+.Teclado{
+  display: grid;
+  grid-template-columns: repeat(4, 66px);
+  grid-template-rows: repeat(5, 50px);
+  margin-top: 40px;
+  gap: 15px;
+}
+
+.BotaoTema-div{
+  text-align: right;
+  width: 100%;
+}
+
+.BotaoTema-div img{
+  width: 60px;
+  height: 60px;
+}
+
+.Tema-Dark{
+  background: linear-gradient(180deg, #1A1B1F 0%, #17181C 100%);
+  color: #fff;
+}
+
+
